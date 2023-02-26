@@ -2,15 +2,15 @@
     "name": "Red Dead Redemption 2",
     "categories": [
         {
-            "title": "Graphics",
+            "title": "Graphismes",
             "type": "radio",
             "options": [
-                "You forget what reality is",
-                "Beautiful",
-                "Good",
-                "Decent",
-                "Bad",
-                "Don‘t look too long at it",
+                "Vous oubliez ce qu'est la réalité",
+                "Magnifique",
+                "Bon",
+                "Convenable",
+                "Mauvais",
+                "Ne le regardez pas trop longtemps",
                 "MS-DOS"
             ]
         },
@@ -18,58 +18,58 @@
             "title": "Gameplay",
             "type": "radio",
             "options": [
-                "Very good",
-                "Good",
-                "It's just gameplay",
+                "Très bon",
+                "Bon",
+                "C'est juste du gameplay.",
                 "Mehh",
-                "Watch paint dry instead",
-                "Just don't"
+                "Regardez plutôt la peinture sécher",
+                "Juste, ne faites rien"
             ]
         },
         {
             "title": "Audio",
             "type": "radio",
             "options": [
-                "Eargasm",
-                "Very good",
-                "Good",
-                "Not too bad",
-                "Bad",
-                "I'm now deaf"
+                "Du miel pour les oreilles",
+                "Très bon",
+                "Bon",
+                "Pas si mauvais",
+                "Mauvais",
+                "Je suis maintenant sourd"
             ]
         },
         {
             "title": "Audience",
             "type": "check",
             "options": [
-                "Kids",
-                "Teens",
-                "Adults",
-                "Grandma"
+                "Enfants",
+                "Ados",
+                "Adultes",
+                "Boomer"
             ]
         },
         {
-            "title": "PC Requirements",
+            "title": "Configuration PC",
             "type": "radio",
             "options": [
-                "Check if you can run paint",
-                "Potato",
-                "Decent",
-                "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "Vérifiez si vous pouvez lancer Paint",
+                "Patate",
+                "Correct",
+                "Rapide",
+                "Richou",
+                "Demandez un prêt à votre banquier"
             ]
         },
         {
-            "title": "Difficulty",
+            "title": "Difficulté",
             "type": "radio",
             "options": [
-                "Just press 'W'",
-                "Easy",
-                "Easy to learn / Hard to master",
-                "Significant brain usage",
-                "Difficult",
-                "Dark Souls"
+                "Juste appuyez sur 'W'",
+                "Facile",
+                "Facile à apprendre / Difficile à maîtriser",
+                "Utilisation significative du cerveau",
+                "Difficile",
+                "Dark Souls / Elden Rings"
             ]
         },
         {
